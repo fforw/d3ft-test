@@ -1,3 +1,3 @@
-# Simple Starter
+# d3ft-test
 
-Simple JS build starter for simple, client-only demos.
+Layout test for a left right oriented hierarchical tree with variable sizes
